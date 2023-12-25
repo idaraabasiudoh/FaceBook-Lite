@@ -1,0 +1,2 @@
+﻿gcc -g *.c -o A02_marking
+./A02_marking
