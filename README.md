@@ -21,10 +21,10 @@ This repository holds the code for a text-based social platform built using C. I
 
 **#Getting Started:**
 
-1.Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run the make command to compile the code.
-4. Execute the Facebook-Lite (or your chosen executable name) file to launch the platform.
+3. Run "gcc -g *.c -o A02_marking" command in terminal to compile the code.
+4. Execute the Facebook-Lite file to launch the platform using "./A02_marking" command.
 
 
 
